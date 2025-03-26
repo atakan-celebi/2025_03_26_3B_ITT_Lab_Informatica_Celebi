@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "2025_03_26_3B_ITT_Lab_Informatica_Celebi",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "2025_03_26_3B_ITT_Lab_Informatica_Celebi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2025_03_26_3B_ITT_Lab_Informatica_Celebi-Debug-981bb4618d98d2aaf917.json",
+					"name" : "2025_03_26_3B_ITT_Lab_Informatica_Celebi",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/9704/CLionProjects/2025_03_26_3B_ITT_Lab_Informatica_Celebi/cmake-build-debug",
+		"source" : "C:/Users/9704/CLionProjects/2025_03_26_3B_ITT_Lab_Informatica_Celebi"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
