@@ -18,7 +18,9 @@ void InserimentoArticoli(int i,articolo* articoli){
 }
 
 void VisualizzaMagazzino(int i, articolo* articoli){
-    printf("%d",articoli[1].quantita);
+    for (int j = 0; j < i; ++j) {
+        printf("%d %d %f",articoli[j].codice,articoli[j].quantita,articoli[j].prezzo);
+    }
 }
 
 
