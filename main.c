@@ -72,7 +72,7 @@ int main(void) {
         printf("inserisci: 1 per inserire degli articoli\n");
         printf("inserisci: 2 per visualizzare gli articoli\n");
         printf("inserisci: 3 per cercare un articolo tramite codice\n");
-        printf("inserisci: 4 per modificare un articolo tramite codice");
+        printf("inserisci: 4 per modificare un articolo tramite codice\n");
         printf("inserisci: 5 per vedere il valore del magazzino\n");
         int caso=0;
         scanf("%d",&caso);
