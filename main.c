@@ -3,7 +3,7 @@
 typedef struct {
     int codice;
     int quantita;
-    float prezzo;
+    float prezzo ;
 }articolo;
 
 void InserimentoArticoli(int i,articolo* articoli){
